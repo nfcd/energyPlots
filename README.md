@@ -21,4 +21,4 @@ Points are color coded by region and their size represents population. Regions a
 
 Axes are logarithmic. x and y axes are not at the same scale. When comparing cross-plotted variables, please pay attention to the orders or magnitude.
 
-Any comments or questions, please contact me at [nestor.cardozo.uis.no](nestor.cardozo@uis.no)
+Any comments or questions, please contact me at [nestor.cardozo.uis.no](mailto:nestor.cardozo@uis.no)
