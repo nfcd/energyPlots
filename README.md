@@ -19,4 +19,4 @@ Points are color coded by region and their size represents population. Regions a
 6. Africa: Red
 7. Asia Pacific: Yellow
 
-Axes are logarithmic. x and y axes are not at the same scale. Please pay attention to the orders or magnitude.
+Axes are logarithmic. x and y axes are not at the same scale. When comparing cross-plotted variables, please pay attention to the orders or magnitude.
