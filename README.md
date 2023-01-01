@@ -7,7 +7,7 @@ Made in Jupyter Notebooks using Python, Matplotlib, Pandas, and [celluloid](http
 
 This is one example:
 
-<video src='../movies/PrimEnVsCO2.mp4' width=320/>
+<video src="https://user-images.githubusercontent.com/54630348/210180214-f5176b7b-1434-4ce6-9152-ec9f70e3d8d0.mp4"></video>
 
 Points are color coded by region and their size represents population. Regions are as follows:
 
