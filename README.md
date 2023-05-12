@@ -7,7 +7,7 @@ Made in Jupyter Notebooks using Python, Matplotlib, Pandas, and [celluloid](http
 
 This is one example, primary energy consumption versus CO2 emissions:
 
-<video src="https://user-images.githubusercontent.com/54630348/210180214-f5176b7b-1434-4ce6-9152-ec9f70e3d8d0.mp4"></video>
+https://github.com/nfcd/energyPlots/assets/54630348/08d7af6a-a257-4562-8543-f05adc8788dd
 
 Points are color coded by region and their size represents population. Regions are as follows:
 
@@ -20,7 +20,5 @@ Points are color coded by region and their size represents population. Regions a
 7. Asia Pacific: Yellow
 
 Axes are logarithmic. x and y axes are not at the same scale. When comparing cross-plotted variables, please pay attention to the orders or magnitude.
-
-And here is another example:
 
 Any comments or questions, please contact me at [nestor.cardozo.uis.no](mailto:nestor.cardozo@uis.no)
