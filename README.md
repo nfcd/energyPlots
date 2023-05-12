@@ -23,10 +23,10 @@ Axes are logarithmic. x and y axes are not at the same scale. When comparing cro
 
 *NEW:*
 
-Here is another type of animation, but this time using the ipyvizzu library:
+This is another type of animation using the ipyvizzu library:
 
 https://github.com/nfcd/energyPlots/assets/54630348/b517ec88-e27f-4ad1-b9f8-0bb15647526d
 
-There are also similar animations for oil reserves and oil production.
+Similar animations for oil reserves and oil production are included.
 
 Any comments or questions, please contact me at [nestor.cardozo.uis.no](mailto:nestor.cardozo@uis.no)
