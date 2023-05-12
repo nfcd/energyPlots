@@ -1,5 +1,5 @@
 # energyPlots
-Movies of the World's energy supply and demand.
+Animations of the World's energy supply and demand.
 
 Data from [BP Statistical Review or World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html) and [The World Bank Population](https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart).
 
