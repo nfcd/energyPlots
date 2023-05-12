@@ -21,4 +21,12 @@ Points are color coded by region and their size represents population. Regions a
 
 Axes are logarithmic. x and y axes are not at the same scale. When comparing cross-plotted variables, please pay attention to the orders or magnitude.
 
+NEW:
+
+Here is another example, but this time using the ipyvizzu library:
+
+https://github.com/nfcd/energyPlots/assets/54630348/590a2927-8e12-49b8-94f5-d88fc72f7194
+
+I also made similar plots for oil reserves and oil production.
+
 Any comments or questions, please contact me at [nestor.cardozo.uis.no](mailto:nestor.cardozo@uis.no)
