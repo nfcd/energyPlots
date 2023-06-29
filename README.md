@@ -1,7 +1,7 @@
 # energyPlots
 Animations of the World's energy supply and demand.
 
-Data from [BP Statistical Review or World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html) and [The World Bank Population](https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart).
+Data from [The Energy Institute Statistical Review or World Energy](https://www.energyinst.org/statistical-review) and [The World Bank Population](https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart).
 
 Made in Jupyter Notebooks using Python, Matplotlib, Pandas, and [celluloid](https://github.com/jwkvam/celluloid). To play the animation in the notebook, you may need to install [ffmpeg](https://www.ffmpeg.org/download.html).
 
@@ -27,6 +27,6 @@ This is another type of animation using the ipyvizzu library:
 
 https://github.com/nfcd/energyPlots/assets/54630348/b517ec88-e27f-4ad1-b9f8-0bb15647526d
 
-Similar animations for oil reserves and oil production are included.
+Similar animations for oil reserves, oil production, primary energy consumption per capita, and CO2 per capita, are included.
 
 Any comments or questions, please contact me at [nestor.cardozo.uis.no](mailto:nestor.cardozo@uis.no)
