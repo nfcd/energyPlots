@@ -7,7 +7,7 @@ Made in Jupyter Notebooks using Python, Matplotlib, Pandas, and [celluloid](http
 
 This is one example, primary energy consumption versus CO2 emissions:
 
-https://github.com/nfcd/energyPlots/assets/54630348/08d7af6a-a257-4562-8543-f05adc8788dd
+https://github.com/nfcd/energyPlots/assets/54630348/15f8b974-e478-4136-a665-890093c1c869
 
 Points are color coded by region and their size represents population. Regions are as follows:
 
@@ -21,12 +21,6 @@ Points are color coded by region and their size represents population. Regions a
 
 Axes are logarithmic. x and y axes are not at the same scale. When comparing cross-plotted variables, please pay attention to the orders or magnitude.
 
-*NEW:*
-
-This is another type of animation using the ipyvizzu library:
-
-https://github.com/nfcd/energyPlots/assets/54630348/b517ec88-e27f-4ad1-b9f8-0bb15647526d
-
-Similar animations for oil reserves, oil production, primary energy consumption per capita, and CO2 per capita, are included.
+*NEW:* In the movies folder, there are other type of animations using the ipyvizzu library: gas production, oil reserves and production, and primary energy consumption and CO2 emissions per capita.
 
 Any comments or questions, please contact me at [nestor.cardozo.uis.no](mailto:nestor.cardozo@uis.no)
