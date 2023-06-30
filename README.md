@@ -1,7 +1,7 @@
 # energyPlots
 Animations of the World's energy supply and demand.
 
-Data from [The Energy Institute Statistical Review or World Energy](https://www.energyinst.org/statistical-review) and [The World Bank Population](https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart).
+Data from the [Statistical Review or World Energy](https://www.energyinst.org/statistical-review) and the [World Bank Population](https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart).
 
 Made in Jupyter Notebooks using Python, Matplotlib, Pandas, and [celluloid](https://github.com/jwkvam/celluloid). To play the animation in the notebook, you may need to install [ffmpeg](https://www.ffmpeg.org/download.html).
 
