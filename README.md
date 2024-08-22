@@ -25,4 +25,6 @@ Axes are logarithmic. x and y axes are not at the same scale. When comparing cro
 
 https://github.com/nfcd/energyPlots/assets/54630348/ff90c3f9-53b9-4a5c-a8e7-8974c78b1938
 
+**Latest update:** 2024. Note that in the 2024 stat. rev. of world energy dataset some sheet names were changed by the Energy Institute (this is rather sloppy and unfortunate).
+
 Any comments or questions, please contact me at [nestor.cardozo.uis.no](mailto:nestor.cardozo@uis.no)
