@@ -7,7 +7,7 @@ Made in Jupyter Notebooks using Python, Matplotlib, Pandas, and [celluloid](http
 
 This is one example, primary energy consumption versus CO2 emissions:
 
-https://github.com/nfcd/energyPlots/assets/54630348/92933658-1e1e-4a08-8b4f-a3dcb590c48a
+https://github.com/user-attachments/assets/a74d512b-dfb8-4b3a-961b-61e2564599f5
 
 Points are color coded by region and their size represents population. Regions are as follows:
 
