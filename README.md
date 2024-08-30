@@ -23,7 +23,7 @@ Axes are logarithmic. x and y axes are not at the same scale. When comparing cro
 
 **NEW:** The notebooks folder has other type of animations using the ipyvizzu library. This is one example: Primary energy consumption per capita:
 
-https://github.com/user-attachments/assets/93d01133-b2a8-4303-89b2-f05f14c37297
+https://github.com/user-attachments/assets/0414c488-34b7-4c89-8ab1-662fd849521a
 
 **Latest update:** 2024. 
 
