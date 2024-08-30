@@ -21,10 +21,14 @@ Points are color coded by region and their size represents population. Regions a
 
 Axes are logarithmic. x and y axes are not at the same scale. When comparing cross-plotted variables, please pay attention to the orders or magnitude.
 
-**NEW:** In the movies folder, there are other type of animations using the ipyvizzu library. This is one example: Primary energy consumption per capita:
+**NEW:** The notebooks folder has other type of animations using the ipyvizzu library. This is one example: Primary energy consumption per capita:
 
 https://github.com/user-attachments/assets/93d01133-b2a8-4303-89b2-f05f14c37297
 
-**Latest update:** 2024. Note that in the 2024 stat. rev. of world energy dataset some sheet names were changed by the Energy Institute (this is rather sloppy and unfortunate).
+**Latest update:** 2024. 
+
+- In the 2024 stat. rev. of world energy dataset some sheet names were changed (this is rather unfortunate). 
+
+- I removed the movies folder. No need to have that if the movies are recreated by the notebooks.
 
 Any comments or questions, please contact me at [nestor.cardozo.uis.no](mailto:nestor.cardozo@uis.no)
